@@ -4,7 +4,6 @@
 #######################################################
 # Name           : login cookies <cookie method>     #
 # File           : run.py          
-                   #
 # Author         : coo-ken                         #
 # Github         : https://github.com/coo-ken          #
 # Whatsap.       : 087828725073.                 #
