@@ -2,12 +2,12 @@
 # coding=utf-8
 
 #######################################################
-# Name           : Multi BF (MBF) <cookie method>     #
-# File           : run.py                             #
-# Author         : DulLah                             #
-# Github         : https://github.com/dz-id           #
-# Facebook       : https://www.facebook.com/dulahz    #
-# Telegram       : https://t.me/unikers               #
+# Name           : login cookies <cookie method>     #
+# File           : run.py          
+                   #
+# Author         : coo-ken                         #
+# Github         : https://github.com/coo-ken          #
+# Whatsap.       : 087828725073.                 #
 # Python version : 2.7                                #
 #######################################################
 
